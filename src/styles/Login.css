@@ -1,0 +1,78 @@
+/* Base styles */
+body {
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #ecf0f3;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .login-card {
+    width: 350px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+  }
+  
+  .login-button {
+    background-color: #3f51b5;
+    width: 100%;
+    color: #ffffff;
+    padding: 15px;
+    margin: 10px 0px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: calc(100% - 40px);
+    margin: 8px 0;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 2px solid #457B9D;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  button:hover {
+    opacity: 0.7;
+  }
+  
+  .login-container {
+    padding: 25px;
+    background-color: #c9dbe6;
+    border-radius: 10px;
+  }
+  
+  .signupBTN {
+    color: #3f51b5;
+    cursor: pointer;
+  }
+  
+  /* Media queries for responsiveness */
+  
+  /* CSS for screens smaller than 600px (e.g., smartphones) */
+  @media (max-width: 600px) {
+    .login-card {
+      width: 90%;
+    }
+  }
+  
+  /* CSS for screens between 600px and 900px (e.g., tablets) */
+  @media (min-width: 600px) and (max-width: 900px) {
+    .login-card {
+      width: 70%;
+    }
+  }
+  
+  /* CSS for screens larger than 900px (e.g., desktops) */
+  @media (min-width: 900px) {
+    .login-card {
+      width: 350px;
+    }
+  }
+  

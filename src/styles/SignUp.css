@@ -1,0 +1,60 @@
+body {
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #ecf0f3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.login-card {
+    width: 100%;
+    max-width: 350px; /* Adjusted width for responsiveness */
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.SignUpButton {
+    background-color: #3f51b5;
+    width: 100%;
+    color: #ffffff;
+    padding: 15px;
+    margin: 10px 0px;
+    border: none;
+    cursor: pointer;
+}
+
+p {
+    margin-top: 2px;
+}
+
+.register-BTN {
+    color: #3f51b5;
+    cursor: pointer;
+    margin-top: 2px;
+    font-size: 15px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: calc(100% - 40px);
+    margin: 8px 0;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 2px solid #457B9D;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+button:hover {
+    opacity: 0.7;
+}
+
+.login-container {
+    padding: 25px;
+    background-color: #c9dbe6;
+    border-radius: 10px;
+}

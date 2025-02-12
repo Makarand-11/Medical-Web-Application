@@ -1,0 +1,64 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+/* body {
+  width: 144rem;
+} */
+.desktop-11-VP3 {
+  box-sizing: border-box;
+  padding: 43.8rem 34.397rem 44.2rem 41.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e53935;
+}
+.desktop-11-VP3 .auto-group-6dgr-1sB {
+  margin-bottom: 2.6975rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-11-VP3 .auto-group-6dgr-1sB .qr-code-generated-Mg9 {
+  margin: 0.097rem 2.2rem 0rem 0rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.9166666667;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-11-VP3 .auto-group-6dgr-1sB .group-UEy {
+  width: 6.2025rem;
+  height: 6.2025rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-11-VP3 .view-prescription-cMB {
+  margin-right: 6.7025rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.8333333333;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

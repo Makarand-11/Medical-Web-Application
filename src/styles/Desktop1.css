@@ -1,0 +1,51 @@
+body {
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #ecf0f3;
+    margin: 0;
+    padding: 0;
+}
+
+.desktop-1-e6Z {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.auto-group-xhh7-Qjw {
+    text-align: center;
+    padding: 2rem;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.image-4-jGR {
+    max-width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.patient1-rbw,
+.patient1gmailcom-ygZ {
+    margin: 10px 0;
+    font-size: 1.6rem; /* Adjusted font size for better readability */
+    font-weight: 500;
+    color: #000;  
+}
+
+.auto-group-fyk3-uaD .button-1 {
+    background-color: #3f51b5;
+    color: #fff;
+    border: none;
+    padding: 1rem 2rem; /* Adjusted padding for better touch targets */
+    font-size: 1.6rem; /* Adjusted font size for better readability */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.auto-group-fyk3-uaD .button-1:hover {
+    background-color: #2f3e9e; /* Darker shade on hover */
+}

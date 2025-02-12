@@ -1,0 +1,346 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+/* body {
+  width: 144rem;
+} */
+.desktop-6-N1T {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.button-1 {
+  background-color: #457B9D;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-1:hover,
+.button-1:focus {
+  background-color: #F082AC;
+}
+
+.desktop-6-N1T .auto-group-x4nq-hpR {
+  box-sizing: border-box;
+  padding: 2.042rem 3.167rem 1.425rem 3.167rem;
+  width: 100%;
+  background-color: #e53935;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-x4nq-hpR .arrowforwardiosfill0wght400grad0opsz48-1-6-2rh {
+  margin-right: 135.7666rem;
+  width: 1.9rem;
+  height: 3.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 {
+  box-sizing: border-box;
+  padding: 3.8rem 7.8rem 8.5rem 6.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-fb25-rqj {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  height: 30.3rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-fb25-rqj .auto-group-m5xq-Pqf {
+  margin-right: 72.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-fb25-rqj .auto-group-m5xq-Pqf .prescription-3-w6V {
+  margin-bottom: 0.5rem;
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.5714285714;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-fb25-rqj .auto-group-m5xq-Pqf .patient1-rz9 {
+  margin-bottom: 0.5rem;
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.5714285714;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-fb25-rqj .auto-group-m5xq-Pqf .date-23-10-2023-zqT {
+  margin-bottom: 7.3rem;
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.5714285714;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-fb25-rqj .auto-group-m5xq-Pqf .prescription-Y6H {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Albert Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-fb25-rqj .image-8-fgh {
+  width: 29rem;
+  height: 29rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 {
+  margin: 0rem 29rem 0.5rem 0rem;
+  width: calc(100% - 29rem);
+  height: 24.3rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-niuk-vcd {
+  margin-right: 2.9rem;
+  box-sizing: border-box;
+  padding: 1.2rem 2.446rem 1.1rem 2.6rem;
+  width: 49.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-niuk-vcd .auto-group-d3ro-pi1 {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-niuk-vcd .auto-group-d3ro-pi1 .azithromycin-1-strip-mt9 {
+  margin-right: 5.1rem;
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.5714285714;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-niuk-vcd .auto-group-d3ro-pi1 .editfill1wght400grad0opsz48-1-JNH {
+  margin-bottom: 0.1521rem;
+  width: 3.0542rem;
+  height: 3.0521rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-niuk-vcd .auto-group-izm3-DEM {
+  margin-right: 9.5542rem;
+  width: 34.5rem;
+  height: 15.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-niuk-vcd .auto-group-izm3-DEM .time-of-dosage-noon-night-9Nu {
+  width: 34.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 2.2;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-niuk-vcd .auto-group-izm3-DEM .repeat-everyday-f6M {
+  width: 21.2rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 5.2rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 2.2;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-niuk-vcd .auto-group-izm3-DEM .to-be-taken-after-eating-fEm {
+  width: 30.1rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 10.1rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 2.2;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-nux7-wi5 {
+  box-sizing: border-box;
+  padding: 1.1rem 2.446rem 6.4rem 2.6rem;
+  width: 49.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-nux7-wi5 .auto-group-yctd-TgR {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-nux7-wi5 .auto-group-yctd-TgR .calpol-500-1-strip-cZK {
+  margin-right: 8.7rem;
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.5714285714;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-nux7-wi5 .auto-group-yctd-TgR .editfill1wght400grad0opsz48-2-jtq {
+  margin-top: 0.0479rem;
+  width: 3.0542rem;
+  height: 3.0521rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-nux7-wi5 .auto-group-amm7-riZ {
+  margin-right: 6.3542rem;
+  width: 37.7rem;
+  height: 10.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-nux7-wi5 .auto-group-amm7-riZ .to-be-taken-after-eating-PiV {
+  width: 30.1rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 2.2;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-tvmf-cM3 .auto-group-nux7-wi5 .auto-group-amm7-riZ .take-only-in-case-of-high-fever-VFj {
+  width: 37.7rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 5.2rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 2.2;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .component-3-AMs {
+  margin: 0rem 111.5rem 13.9rem 0rem;
+  width: calc(100% - 111.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .component-3-AMs .vector-Vf3 {
+  margin: 0rem 0.7rem 0.2rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .component-3-AMs .add-medicine-dWM {
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 2.2;
+  color: #e53935;
+  font-family: Albert Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-6-N1T .auto-group-mdmx-jm7 .auto-group-fhn5-Z97 {
+  margin: 0rem 57rem 0rem 58.6rem;
+  width: calc(100% - 115.6rem);
+  height: 7.3rem;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 2.2;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #457b9d;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
